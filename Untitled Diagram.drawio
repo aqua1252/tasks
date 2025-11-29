@@ -59,19 +59,19 @@
           <mxGeometry height="70" width="140" x="70" y="250" as="geometry" />
         </mxCell>
         <mxCell id="3VrVWVl_UH6RDl5swHNz-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="اعلام آمادگی غذا" vertex="1">
-          <mxGeometry height="70" width="140" x="240" y="250" as="geometry" />
+          <mxGeometry height="70" width="140" x="50" y="530" as="geometry" />
         </mxCell>
         <mxCell id="3VrVWVl_UH6RDl5swHNz-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مشاهده گزارش و آمار فروش رستوران" vertex="1">
           <mxGeometry height="70" width="140" x="70" y="340" as="geometry" />
         </mxCell>
         <mxCell id="3VrVWVl_UH6RDl5swHNz-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مشاهده سفارشات درحال انجام" vertex="1">
-          <mxGeometry height="70" width="140" x="240" y="340" as="geometry" />
+          <mxGeometry height="70" width="140" x="240" y="260" as="geometry" />
         </mxCell>
         <mxCell id="3VrVWVl_UH6RDl5swHNz-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مشاهده و پاسخ به نظرات" vertex="1">
-          <mxGeometry height="70" width="140" x="75" y="430" as="geometry" />
+          <mxGeometry height="70" width="140" x="240" y="340" as="geometry" />
         </mxCell>
         <mxCell id="3VrVWVl_UH6RDl5swHNz-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="آماده کردن غذا" vertex="1">
-          <mxGeometry height="70" width="140" x="250" y="430" as="geometry" />
+          <mxGeometry height="70" width="140" x="50" y="610" as="geometry" />
         </mxCell>
         <mxCell id="3VrVWVl_UH6RDl5swHNz-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مدیریت رستوران ها" vertex="1">
           <mxGeometry height="70" width="140" x="680" y="560" as="geometry" />
