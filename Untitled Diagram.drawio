@@ -19,8 +19,98 @@
         <mxCell id="3VrVWVl_UH6RDl5swHNz-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" value="مدیر رستوران" vertex="1">
           <mxGeometry height="60" width="30" x="310" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="3VrVWVl_UH6RDl5swHNz-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" value="مشتری" vertex="1">
-          <mxGeometry height="60" width="30" x="370" y="40" as="geometry" />
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="ورود / ثبت نام" vertex="1">
+          <mxGeometry height="70" width="140" x="410" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="پرداخت آنلاین" vertex="1">
+          <mxGeometry height="70" width="140" x="610" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="لغو" vertex="1">
+          <mxGeometry height="70" width="140" x="610" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مشاهده وضعیت سفارش" vertex="1">
+          <mxGeometry height="70" width="140" x="610" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="اضافه به سبد / حذف از سبد" vertex="1">
+          <mxGeometry height="70" width="140" x="409" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="امتیاز دادن و بازخورد" vertex="1">
+          <mxGeometry height="70" width="140" x="410" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مشاهده منو و رستوران" vertex="1">
+          <mxGeometry height="70" width="140" x="410" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="اعمال تخفیف" vertex="1">
+          <mxGeometry height="70" width="140" x="410" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="سفارش" vertex="1">
+          <mxGeometry height="70" width="140" x="610" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مدیریت پروفایل" vertex="1">
+          <mxGeometry height="70" width="140" x="610" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="تغییر وضعیت رستوران&lt;div&gt;&amp;nbsp;(باز / یسته)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="70" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="لغو سفارش" vertex="1">
+          <mxGeometry height="70" width="140" x="240" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="پذیرش سفارش" vertex="1">
+          <mxGeometry height="70" width="140" x="70" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="اعلام آمادگی غذا" vertex="1">
+          <mxGeometry height="70" width="140" x="240" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مشاهده گزارش و آمار فروش رستوران" vertex="1">
+          <mxGeometry height="70" width="140" x="70" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مشاهده سفارشات درحال انجام" vertex="1">
+          <mxGeometry height="70" width="140" x="240" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مشاهده و پاسخ به نظرات" vertex="1">
+          <mxGeometry height="70" width="140" x="75" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="آماده کردن غذا" vertex="1">
+          <mxGeometry height="70" width="140" x="250" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مدیریت رستوران ها" vertex="1">
+          <mxGeometry height="70" width="140" x="680" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مشاهده آمار" vertex="1">
+          <mxGeometry height="70" width="140" x="530" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="لغو سفارش درصورت حادثه برای پیک" vertex="1">
+          <mxGeometry height="70" width="140" x="530" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="تماس با مشتری و پیک" vertex="1">
+          <mxGeometry height="70" width="140" x="370" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="مدیریت کاربران&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="140" x="370" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="تایید بازگشت وجه درصورت لغو سفارش" vertex="1">
+          <mxGeometry height="70" width="140" x="215" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="قابلیت ثبت تخفیف&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="140" x="215" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="پیگیری مشکلات" vertex="1">
+          <mxGeometry height="70" width="140" x="680" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="تحویل غذا" vertex="1">
+          <mxGeometry height="70" width="140" x="360" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="پذیرش /رد پیشنهاد ارسال" vertex="1">
+          <mxGeometry height="70" width="140" x="210" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="دریافت غذا" vertex="1">
+          <mxGeometry height="70" width="140" x="530" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="بروز رسانی وضعیت تحویل" vertex="1">
+          <mxGeometry height="70" width="140" x="690" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="3VrVWVl_UH6RDl5swHNz-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" value="تماس با مشتری" vertex="1">
+          <mxGeometry height="70" width="140" x="50" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
