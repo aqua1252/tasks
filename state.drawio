@@ -191,6 +191,9 @@
         <mxCell id="dIHPDfcFyCuldOfaMpQN-52" parent="dIHPDfcFyCuldOfaMpQN-50" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontStyle=1" value="بسته شده" vertex="1">
           <mxGeometry height="40" width="140" x="30" y="410" as="geometry" />
         </mxCell>
+        <mxCell id="dIHPDfcFyCuldOfaMpQN-112" edge="1" parent="dIHPDfcFyCuldOfaMpQN-50" source="dIHPDfcFyCuldOfaMpQN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dIHPDfcFyCuldOfaMpQN-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dIHPDfcFyCuldOfaMpQN-28" parent="dIHPDfcFyCuldOfaMpQN-50" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#232F3D;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="85" y="20" as="geometry" />
         </mxCell>
