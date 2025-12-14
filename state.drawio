@@ -22,11 +22,6 @@
         <mxCell id="cfNQWZGr458ai7A5lG_g-29" edge="1" parent="mwhy2eckfWZ-Z34F1gbL-1" source="cfNQWZGr458ai7A5lG_g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cfNQWZGr458ai7A5lG_g-28" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cfNQWZGr458ai7A5lG_g-31" connectable="0" parent="cfNQWZGr458ai7A5lG_g-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
-          <mxGeometry relative="1" x="-0.1763" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cfNQWZGr458ai7A5lG_g-12" parent="mwhy2eckfWZ-Z34F1gbL-1" style="swimlane;fontStyle=5;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" value="&lt;span style=&quot;&quot;&gt;بسته شده&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="150" x="1450" y="760" as="geometry" />
         </mxCell>
