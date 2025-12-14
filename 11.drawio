@@ -6,10 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="m2Edz9bLUS6zT3j1qMTx-31" edge="1" parent="1" source="m2Edz9bLUS6zT3j1qMTx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Rx6il7yJ5G1qx8E1bV63-17" value="Access">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="473" y="919" />
-              <mxPoint x="466" y="919" />
-            </Array>
             <mxPoint x="654" y="886" as="targetPoint" />
           </mxGeometry>
         </mxCell>
